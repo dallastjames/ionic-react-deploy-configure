@@ -1,0 +1,7 @@
+{
+  "name": "deployReact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
